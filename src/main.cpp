@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 const int ledpin = 5;
-const int ledtime = 1000;
+const int ledtime = 500;
 
 void setup() {
   pinMode(ledpin,OUTPUT);
